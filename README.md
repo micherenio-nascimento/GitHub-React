@@ -58,3 +58,6 @@ Este projeto é uma aplicação React que permite buscar repositórios do GitHub
 ## Contribuição
 
 Sinta-se à vontade para enviar pull requests ou abrir issues para melhorar a aplicação. Agradecemos qualquer contribuição!
+
+## Categoria
+**frontend**
