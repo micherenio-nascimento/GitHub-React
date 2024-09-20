@@ -20,7 +20,7 @@ Este projeto é uma aplicação React que permite buscar repositórios do GitHub
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/micherenio-nascimento/GitHub-React.git
    ```
 
 2. **Navegue até o Diretório do Projeto**:
