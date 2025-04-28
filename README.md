@@ -1,3 +1,5 @@
+![Gravação de tela](./assets/Gravacao_de_tela.gif)
+___
 # GitHub Repo Search with React
 
 Este projeto é uma aplicação React que permite buscar repositórios do GitHub a partir de um nome de usuário. A aplicação utiliza Vite para build e Tailwind CSS para estilização. O design inclui um ícone do GitHub na aba do navegador e uma interface centralizada e responsiva para uma experiência de usuário agradável.
