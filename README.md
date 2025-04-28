@@ -1,4 +1,4 @@
-![Gravação de tela](./assets/Gravacao_de_tela.gif)
+![Gravação de tela](./assets/Gravacao-de-%20tela.gif)
 ___
 # GitHub Repo Search with React
 
